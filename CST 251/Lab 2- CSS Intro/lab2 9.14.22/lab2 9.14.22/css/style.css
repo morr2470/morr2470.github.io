@@ -1,0 +1,61 @@
+<style>
+
+      body{
+        background-image: url();
+        background-repeat: no repeat;
+        background-size: cover;
+        margin: 0 auto;
+        font-family: "helevetica neue";
+      }
+
+    h1{
+      background-color: #050a52;
+      color: white;
+      font-size: 6rem;
+      text-align: center;
+      padding: 15px;
+      border:  10px solid orange;
+      margin: top 10x;
+      font-family: 'Sofia' ;
+    }
+
+    h2{
+      border-bottom: 10px ridge orangered;
+      padding-top: 10px orange;
+    }
+
+      main{
+        background-color: #050a52;
+        color: white;
+        font-size: 2vw;
+        }
+    
+        a{
+          color: orange;
+        }
+
+        ul{
+          background-color: lightgreen;
+          color: slateblue;
+        }
+
+        ol{
+          background-color: deeppink;
+        }
+
+        img{
+          border-bottom-right-radius: 200px;
+          border:  4px groove slateblue;
+        }
+
+        h3{
+          text-align: center;
+          width: 100%;
+          height: 100%;
+        }
+
+        img{
+          width: auto;
+          height:  auto;
+        }
+    </style>
