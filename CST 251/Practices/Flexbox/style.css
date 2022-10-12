@@ -1,0 +1,87 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	@media (max-width: 768px){
+		#main{
+			position: absolute;
+			display:flex;
+			flex-direction: column;
+    		height:10vh;
+			justify-content: space-evenly;
+			}
+		}
+	 
+	
+	#ready{
+		position: fixed;
+		top: 20%;
+		left: 40%;
+	}
+	
+	#set{
+		position:absolute
+		top: 70%;
+		left: 30%;
+		}
+		
+		.num{
+			background-color: cyan;
+			border-radius: 200px;
+		}
+body{
+	background-color: mediumpurple;
+		}
+	
+#main{
+	display:flex;
+    flex-wrap:wrap;
+	flex-direction: row;
+    align-items: flex-start;
+    height:10vh;
+    justify-content: space-evenly;
+}	
+		
+div{
+	background-color: darkmagenta;
+	border-radius: 6px;
+	color: white;
+	padding: 30px;
+	margin: 5px;	
+		}
+		
+#ready{
+	    position: absolute; 
+ 		top: 50%;
+  		left: 20%;
+		}
+		
+#set{
+		position: absolute; /* or absolute */
+  		top: 50%;
+  		left: 50%;
+		}
+		
+#go{
+  position: absolute; /* or absolute */
+  top: 50%;
+  left: 80%;
+		}
+
+#o{
+	    position: absolute; 
+ 		top: 50%;
+  		left: 16%;
+		}
+		
+#t{
+		position: absolute; /* or absolute */
+  		top: 50%;
+  		left: 45%;
+		}
+		
+#th{
+  position: absolute; /* or absolute */
+  top: 50%;
+  left: 75%;
+		}
+	
