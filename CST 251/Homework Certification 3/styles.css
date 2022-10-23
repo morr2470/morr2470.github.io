@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+  div.example {
+    display: none;
+  }
+}
+
+body{
+  background-color: gainsboro;
+  font-family: Helvetica;
+      display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+header{
+  font-weight: bold;
+  font-variant: small-caps;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-thickness: 1px;
+}
+
+nav{
+  background-color: LightGray;
+  text-color: slategray;
+}
